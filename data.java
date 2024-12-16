@@ -48,16 +48,6 @@ public class data {
             }
             rankArray[i] = rank;
         }
-        // // Sorting berdasarkan IPK secara descending
-        // for (int i = 0; i < ipkArray.length - 1; i++) {
-        //     for (int j = i + 1; j < ipkArray.length; j++) {
-        //         if (ipkArray[indexArray[i]] < ipkArray[indexArray[j]]) {
-        //             int temp = indexArray[i];
-        //             indexArray[i] = indexArray[j];
-        //             indexArray[j] = temp;
-        //         }
-        //     }
-        // }
 
         System.out.println("+-----+--------+----------+------------------------------------------------------------+---------+-------+------------------+");
         System.out.println("|     |        |          |                Nilai Mata kuliah                           |         |       |                  |");
